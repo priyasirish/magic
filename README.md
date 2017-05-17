@@ -1,0 +1,2 @@
+# magic
+My first repository
